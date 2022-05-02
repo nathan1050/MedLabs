@@ -1,0 +1,41 @@
+html {
+    overflow-x: hidden;
+  }
+
+* {
+	margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+/*--- Start Parallax Style --*/
+.parallax {
+	background: url("https://images.unsplash.com/photo-1647675558742-4eca661f71ce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3132&q=80") repeat fixed 100%;
+	text-align: center;
+}
+.parallax-inner {
+	padding-top: 10%;
+	padding-bottom: 20%;
+}
+/*--- End Parallax Style --*/
+h1 {
+	text-align: center;
+	font-size: 500%;
+	color: rgb(94, 101, 123);
+	text-transform: uppercase;
+	letter-spacing: 3px;
+}
+
+.jumbotron {
+    color: #425b74;
+    background: white;
+    margin-top: 50px;
+    }
+
+h2{
+    margin-bottom: 30px;
+}
+
+p{
+    margin-top: 50px;
+}

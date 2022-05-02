@@ -1,0 +1,7 @@
+<div class = "container">
+
+<h2>Aspirin</h2>
+<h6>Price: $9.99</h6>
+<p>Aspirin is used to relieve the symptoms of rheumatoid arthritis (arthritis caused by swelling of the lining of the joints), osteoarthritis (arthritis caused by breakdown of the lining of the joints), systemic lupus erythematosus (condition in which the immune system attacks the joints and organs and causes pain and swelling) and certain other rheumatologic conditions (conditions in which the immune system attacks parts of the body). Nonprescription aspirin is used to reduce fever and to relieve mild to moderate pain from headaches, menstrual periods, arthritis, toothaches, and muscle aches.</p>
+
+</div>

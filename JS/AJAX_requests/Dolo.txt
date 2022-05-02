@@ -1,0 +1,7 @@
+<div class = "container">
+
+<h2>Dolo</h2>
+<h6>Price: $17.99</h6>
+<p>Dolo is the common medication which is highly prescribed by the doctor during and to relieve mild and moderate pain. The medication works effectively in reducing fever and mild to moderate pain. The action to reduce is achieved by inhibiting the production of certain chemicals in the body and increasing heat loss from the body. This tablet inhibits the pain signals that are sent to the brain, as a result, the pain experienced by the person is reduced after taking it.</p>
+
+</div>

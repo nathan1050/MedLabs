@@ -1,0 +1,100 @@
+<section style="background: url(Images/info_bg.jpeg); background-size: cover; background-position: auto; margin-bottom: 0;">
+      <div id="carouselExampleIndicatorsItems" class="carousel slide carousel-dark text-center" data-ride="carousel" style="margin-bottom: 0">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicatorsItems" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicatorsItems" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicatorsItems" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner py-4">
+            <div class="carousel-item active">
+              <div class="container">
+                <div class="row">
+
+                  <div class="col-md-4 text-center">
+                    <img class="shop-item-image rounded-circle"  width="140" height="140" src="https://img.medscapestatic.com/pi/features/drugdirectory/octupdate/MCC04520.jpg?output-quality=50">
+                    <h2 class="shop-item-title">Tylenol</h2>
+                    <p class="shop-item-price">$19.99</p>
+                    <p><a class="btn btn-secondary shop-item-button" href="#checkout">Add to Cart</a></p>
+                  </div>
+
+                  <div class="col-md-4 d-none d-md-block">
+                    <img class="shop-item-image rounded-circle"  width="140" height="140" src="https://i.guim.co.uk/img/static/sys-images/Lifeandhealth/Pix/pictures/2014/4/25/1398438441948/Ibuprofen-tablets-011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e7c0bbedc1219a4c4adf3f262e86a1c">
+                    <h2 class="shop-item-title">Ibuprofen</h2>
+                    <p class="shop-item-price">$24.99</p>
+                    <p><a class="btn btn-secondary shop-item-button" href="#checkout">Add to Cart</a></p>
+                  </div>
+
+                  <div class="col-md-4 d-none d-md-block">
+                    <img class="shop-item-image rounded-circle"  width="140" height="140" src="https://s3.envato.com/files/287210355/2200414-009.jpg">
+                    <h2 class="shop-item-title">Feverall</h2>
+                    <p class="shop-item-price">$39.99</p>
+                    <p><a class="btn btn-secondary shop-item-button" href="#checkout">Add to Cart</a></p>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+          <div class="carousel-item">
+            <div class="container">
+              <div class="row">
+
+                <div class="col-md-4 text-center">
+                  <img class="shop-item-image rounded-circle"  width="140" height="140" src="https://pharmaceutical-journal.com/wp-content/uploads/2021/01/paracetamol-tablets-ss-17.png">
+                  <h2 class="shop-item-title">Acephen</h2>
+                  <p class="shop-item-price">$12.99</p>
+                  <p><a class="btn btn-secondary shop-item-button" href="#checkout">Add to Cart</a></p>
+                </div>
+                <div class="col-md-4 d-none d-md-block">
+                  <img class="shop-item-image rounded-circle"  width="140" height="140" src="https://upload.wikimedia.org/wikipedia/commons/0/00/FlattenedRoundPills.jpg">
+                  <h2 class="shop-item-title">Cope</h2>
+                  <p class="shop-item-price">$14.99</p>
+                  <p><a class="btn btn-secondary shop-item-button" href="#checkout">Add to Cart</a></p>
+                </div>
+                <div class="col-md-4 text-center">
+                  <img class="shop-item-image rounded-circle"  width="140" height="140" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gettyimages-159628313-1563268414.jpg?crop=1xw:0.7340797760671799xh;center,top&resize=1200:*">
+                  <h2 class="shop-item-title">Aspirin</h2>
+                  <p class="shop-item-price">$9.99</p>
+                  <p><a class="btn btn-secondary shop-item-button" href="#checkout">Add to Cart</a></p>
+                </div>
+
+              </div>
+            </div>
+          </div>
+          <div class="carousel-item">
+            <div class="container">
+              <div class="row">
+
+                <div class="col-md-4 d-none d-md-block">
+                  <img class="shop-item-image rounded-circle"  width="140" height="140" src="https://5.imimg.com/data5/SELLER/Default/2021/5/TC/LT/WN/1090199/paracetamol-650-mg-tablet-crocin-250x250.jpeg">
+                  <h2 class="shop-item-title">Crocin</h2>
+                  <p class="shop-item-price">$39.99</p>
+                  <p><a class="btn btn-secondary shop-item-button" href="#checkout">Add to Cart</a></p>
+                </div>
+                <div class="col-md-4 text-center">
+                  <img class="shop-item-image rounded-circle"  width="140" height="140" src="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=1098,format=auto/sites/default/files/styles/1200x800/public/images/methode/2017/02/08/d2256b7e-edcf-11e6-8960-2c6b8565de23_1280x720.png?itok=j4RozZU9">
+                  <h2 class="shop-item-title">Maliepills</h2>
+                  <p class="shop-item-price">$14.99</p>
+                  <p><a class="btn btn-secondary shop-item-button" href="#checkout">Add to Cart</a></p>
+                </div>
+                <div class="col-md-4 d-none d-md-block">
+                  <img class="shop-item-image rounded-circle"  width="140" height="140" src="https://www.mymed.com/image/3430/medicalarticle/800">
+                  <h2 class="shop-item-title">Paracetamol</h2>
+                  <p class="shop-item-price">$19.99</p>
+                  <p><a class="btn btn-secondary shop-item-button" href="#checkout">Add to Cart</a></p>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicatorsItems" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"  style="color: #4d4d4d></span>
+          <span class="sr-only"></span>
+          
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicatorsItems" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true" style="color: #4d4d4d></span>
+          <span class="sr-only"></span>
+        </a>
+    </div>
+  </section>
