@@ -5,13 +5,11 @@ if (document.readyState == 'loading') {
 }
 
 function ready() {
-
-
     let button = document.getElementsByClassName('btn-light')[0];
     button.addEventListener('click', () => {
         const xhr = new XMLHttpRequest();
         xhr.addEventListener('load', output);
-        xhr.open('GET', 'JS/AJAX_requests/faq.txt');
+        xhr.open('GET', '../JS/AJAX_requests/faq.txt');
         xhr.send();
         console.log(xhr)
     })
