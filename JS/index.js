@@ -43,6 +43,8 @@ function ready() {
     }
 }
 
+/* Functions to call xhr request */
+
 function reqData(event) {
     let button = event.target
     let shopItem = button.parentElement.parentElement 

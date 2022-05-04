@@ -151,4 +151,20 @@ html {
         font-size: 1em;
     }
 
+p::first-letter {
+    font-size: 130%;
+}
+
+button:hover {
+	font-weight: bold;
+  }
+
+.btn:hover{
+    font-weight: bold;
+}
+
+.carousel-caption p{
+    font-weight: normal;
+}
+
 

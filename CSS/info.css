@@ -32,3 +32,23 @@ img {
     width: 45px;
     margin-bottom: 15px;
 }
+
+.container + section {
+    font-size: normal;
+}
+
+button:hover {
+	font-weight: bold;
+  }
+
+.btn:hover{
+    font-weight: bold;
+}
+
+.carousel-caption h1{
+    font-weight: bold;
+}
+
+.container p{
+    font-weight: normal;
+}

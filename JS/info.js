@@ -4,6 +4,8 @@ if (document.readyState == 'loading') {
     ready()
 }
 
+/* Functions to call xhr request */
+
 function ready() {
     let button = document.getElementsByClassName('btn-light')[0];
     button.addEventListener('click', () => {

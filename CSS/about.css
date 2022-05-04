@@ -12,7 +12,8 @@ body{
 	padding: 0;
 }
 
-/*--- Start Parallax Style --*/
+/* Start Parallax Style  */
+
 .parallax {
 	background: url("https://images.unsplash.com/photo-1638030108775-c4510886b410?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3271&q=80") repeat fixed 100%;
 	text-align: center;
@@ -21,13 +22,20 @@ body{
 	padding-top: 15%;
 	padding-bottom: 15%;
 }
-/*--- End Parallax Style --*/
+
+/* End Parallax Style */
+
 h1 {
 	text-align: center;
 	font-size: 500%;
 	color: #FFF;
 	text-transform: uppercase;
 	letter-spacing: 3px;
+}
+
+p + h4 {
+	color: #FFF
+
 }
 
 .jumbotron {
@@ -38,4 +46,21 @@ h1 {
 
 .col-md-6 p {
 	font-weight: normal;
+}
+
+p::first-line {
+	color: rgb(18, 53, 94);
+	font-weight: bold;
+  }
+
+p::first-letter {
+	font-size: 130%;
+}
+
+.btn:hover{
+    font-weight: bold;
+}
+
+.container p{
+    font-weight: normal;
 }
