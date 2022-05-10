@@ -33,7 +33,6 @@ function ready() {
         xhr.addEventListener('load', output);
         xhr.open('GET', 'JS/AJAX_requests/More_Items.txt');
         xhr.send();
-        console.log(xhr)
     })
 
     let description = document.getElementsByClassName('btn-outline-dark')
@@ -52,9 +51,7 @@ function reqData(event) {
     const xhr = new XMLHttpRequest();
     xhr.addEventListener('load', infoOutput);
     xhr.open('GET', `JS/AJAX_requests/${title}.txt`);
-    xhr.send();
-    console.log(xhr)
-    
+    xhr.send();   
 }
 
 function output(data){

@@ -13,7 +13,6 @@ function ready() {
         xhr.addEventListener('load', output);
         xhr.open('GET', '../JS/AJAX_requests/faq.txt');
         xhr.send();
-        console.log(xhr)
     })
 }
 

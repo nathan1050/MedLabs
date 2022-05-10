@@ -33,9 +33,8 @@ h1 {
 	letter-spacing: 3px;
 }
 
-p + h4 {
-	color: #FFF
-
+h2 + p {
+	text-decoration-color: antiquewhite;
 }
 
 .jumbotron {
@@ -57,10 +56,21 @@ p::first-letter {
 	font-size: 130%;
 }
 
-.btn:hover{
+.btn:hover {
     font-weight: bold;
 }
 
-.container p{
+.container p {
     font-weight: normal;
 }
+
+.nav + div h2 {
+	color: #425b74;
+}
+
+section + div h2 {
+	color: #425b74;
+}
+
+
+  

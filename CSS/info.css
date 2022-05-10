@@ -5,9 +5,9 @@ body { padding-top: 70px;
     }
 
 .jumbotron {
-color: #2c3e50;
-background: #ffffff;
-margin-top: 50px;
+    color: #2c3e50;
+    background: #ffffff;
+    margin-top: 50px;
 }
 
 img {
@@ -15,11 +15,11 @@ img {
     border-radius:5%
     }
     
-.text-center h3{
+.text-center h3 {
     margin-top: 10px;
 }
 
-.btn-light{
+.btn-light {
     margin: 0 auto;
     display: block;
 }
@@ -41,14 +41,14 @@ button:hover {
 	font-weight: bold;
   }
 
-.btn:hover{
+.btn:hover {
     font-weight: bold;
 }
 
-.carousel-caption h1{
+.carousel-caption h1 {
     font-weight: bold;
 }
 
-.container p{
+.container p {
     font-weight: normal;
 }
